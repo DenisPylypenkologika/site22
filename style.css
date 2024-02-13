@@ -1,0 +1,21 @@
+header{
+  background-color: 	#bfcc07	;
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: 	#e5ff00	;
+}
+
+footer{
+  text-align: center;
+  background-color: 	#bfcc07	;
+}
+a{
+  text-decoration: none;
+  color:black;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 5px;
+}
